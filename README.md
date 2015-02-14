@@ -16,7 +16,7 @@ This module is extremely simple.
 ### API sample
 
 ```javascript
-    var HTTPStatus = require('../lib/HTTPStatus');
+    var HTTPStatus = require('http-status-lists');
 
     // Print "Internal Server Error"
     console.log(HTTPStatus.ALL[500]);

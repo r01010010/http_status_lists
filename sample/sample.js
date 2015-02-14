@@ -1,4 +1,4 @@
-var HTTPStatus = require('http_status_lists');
+var HTTPStatus = require('http-status-lists');
 
 // Print "Internal Server Error"
 console.log(HTTPStatus.ALL[500]);
