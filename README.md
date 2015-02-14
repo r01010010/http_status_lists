@@ -2,7 +2,7 @@
 
 Utility to interact with HTTP status codes grouped by categories (All, REST, Successful, Errors, etc)
 
-## This module is a fork
+## This module is based on
 This module is based on https://github.com/wdavidw/node-http-status
 
 ## Usage
