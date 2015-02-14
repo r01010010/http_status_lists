@@ -2,7 +2,6 @@
   "name": "http_status_lists",
   "version": "0.0.1",
   "description": "HTTP status codes agrouped by categories like for example REST or SUCCESFUL codes",
-  "homepage": "http://www.adaltas.com/projects/node-http-status",
   "author": "Paloma Jiménez <r01010010@gmail.com>",
   "keywords": ["http", "status", "codes", "rest", "services"],
   "repository": {
