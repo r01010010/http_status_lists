@@ -1,0 +1,29 @@
+{
+  "name": "http_status_lists",
+  "version": "0.0.1",
+  "description": "HTTP status codes agrouped by categories like for example REST or SUCCESFUL codes",
+  "homepage": "http://www.adaltas.com/projects/node-http-status",
+  "author": "Paloma Jiménez <r01010010@gmail.com>",
+  "keywords": ["http", "status", "codes", "rest", "services"],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/r01010010/http_status_codes_extended"
+  },
+  "bugs": {
+  "email": "r01010010@gmail.com",
+  "url": "http://github.com/r01010010/http_status_codes_extended/issues"
+  },
+  "devDependencies": {
+
+  },
+  "contributors": [
+
+  ],
+  "main": "./lib/HTTPStatus",
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
