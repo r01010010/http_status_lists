@@ -1,5 +1,5 @@
 {
-  "name": "http_status_lists",
+  "name": "http-status-lists",
   "version": "0.0.2",
   "description": "HTTP status codes agrouped by categories like for example REST or SUCCESFUL codes",
   "author": "Paloma Jiménez <r01010010@gmail.com>",
